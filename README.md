@@ -6,8 +6,6 @@ This application allow a user to register in website also function to Manage mem
     Register a member
     Login and password reset
     Configure for email verification or auto active users.
-    Configure Complex password.
-    Control auto redirect after login.
     Manage Member profile.
     Upload Profile pictures
     Auto adjust with other applications
